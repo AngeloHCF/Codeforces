@@ -1,0 +1,1 @@
+if(amountA < amountB && !aArr.empty())
